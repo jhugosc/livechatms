@@ -23,7 +23,7 @@ O principal objetivo deste projeto é aprofundar conhecimentos em comunicação 
    ```bash
    git clone https://github.com/jhugosc/livechatms.git
 
-2. Navegue até o projeto no terminal e execute com sua IDE
+2. Navegue até o projeto e execute com sua IDE
 
 3. Acesse no navegador:
    ```bash
