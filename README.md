@@ -2,7 +2,7 @@
 
 Aplicação de Live Chat criada com **Spring Boot**, **WebSocket** e **STOMP** para fins de estudo e aprendizado em comunicação em tempo real.
 
-Este projeto foi desenvolvido seguindo os passos do vídeo do canal [Build & Run](https://www.youtube.com/watch?v=1ikUmil7GgY), que apresenta toda a estrutura do backend e frontend de forma didática.
+Este projeto foi desenvolvido seguindo os passos do vídeo do canal [Build & Run](https://www.youtube.com/watch?v=1kiUmIl7GgY), que apresenta toda a estrutura do backend e frontend de forma didática.
 
 > ⚠️ **O frontend (HTML, CSS e JavaScript) foi fornecido pelo próprio criador do desafio, no vídeo original.** O foco principal deste projeto foi a implementação do backend utilizando Spring Boot e WebSocket com STOMP.
 
